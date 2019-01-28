@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Aideen\\Google Drive\\Programming\\Assignment2\\DSA\\Assignments\\Assignment4\\Question3\\Question3.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
